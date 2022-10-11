@@ -16,3 +16,22 @@ header a {
   font-weight: bold;
   text-decoration: none;
 }
+main {
+  padding-left: 1rem;
+}
+.procucts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.procuct {
+  border: 1px #404040 solid;
+  margin: 1rem;
+}
+.procuct img {
+  width: 100%;
+  max-width: 400px;
+}
+.product-info {
+  padding: 1rem;
+}
