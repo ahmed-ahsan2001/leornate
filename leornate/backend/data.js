@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: "NIKE slim shirt",
+      name: "Set Of Leather Trays",
       slug: " nike-slim-shirt",
       category: "Shirts",
       image: "/images/p1.jpg",
@@ -13,7 +13,7 @@ const data = {
       description: "high quality leather products",
     },
     {
-      name: "NIKE slim shirt",
+      name: "Cutlery Box And Cutlery Stand",
       slug: " nike-slim-shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
@@ -25,7 +25,7 @@ const data = {
       description: "high quality leather products",
     },
     {
-      name: "NIKE slim shirt",
+      name: "Dark Brown Cutlery Box",
       slug: " nike-slim-shirt",
       category: "Shirts",
       image: "/images/p3.jpg",
@@ -37,7 +37,7 @@ const data = {
       description: "high quality leather products",
     },
     {
-      name: "NIKE slim shirt",
+      name: "Dark Brown Cutlery box",
       slug: " nike-slim-shirt",
       category: "Shirts",
       image: "/images/p3.jpg",
